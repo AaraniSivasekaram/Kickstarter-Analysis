@@ -2,15 +2,15 @@
 
 ## Overview of Project
 
-### The purpose of this analysis was to determine parameters of successful Kickstarter campaigns with the theatre category and play subcategory. 
+The purpose of this analysis was to determine parameters of successful Kickstarter campaigns with the theatre category and play subcategory. 
 
 ## Analysis and Challenges
 
-### An analysis of Outcomes Based on Launch Date was performed by translating the date campaigns were launched into a year format. This information was placed in a pivot table to visualize months by outcomes (successful, failed, live and canceled) for all theatre Kickstarter campaigns. A pivot chart was created in the form of a line graph with markers ![Outcomes_vs_Goals] (https://github.com/AaraniSivasekaram/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png).
+- An analysis of Outcomes Based on Launch Date was performed by translating the date campaigns were launched into a year format. This information was placed in a pivot table to visualize months by outcomes (successful, failed, live and canceled) for all theatre Kickstarter campaigns. A pivot chart was created in the form of a line graph with markers ![Outcomes_vs_Goals] (https://github.com/AaraniSivasekaram/Kickstarter-Analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png).
 
-### An analysis of Outcomes Based on Goals was performed by creating 12 different goal ranges and using the COUNTIFS function. Data from all Kickstarter campaigns was filtered using the COUNTIFS function to include only data from plays, then data was separated by the different goal ranges, then separated by successful, failed and live campaign outcomes. This data was then translated into percentages of successful, failed and live plays, within the different goal ranges. A pivot chart was created in the form of a line graph with markers ![Theatre_Outcomes_vs_Goals] (https://github.com/AaraniSivasekaram/Kickstarter-Analysis/blob/main/Theatre%20Outcomes%20vs%20Launch.png). 
+- An analysis of Outcomes Based on Goals was performed by creating 12 different goal ranges and using the COUNTIFS function. Data from all Kickstarter campaigns was filtered using the COUNTIFS function to include only data from plays, then data was separated by the different goal ranges, then separated by successful, failed and live campaign outcomes. This data was then translated into percentages of successful, failed and live plays, within the different goal ranges. A pivot chart was created in the form of a line graph with markers ![Theatre_Outcomes_vs_Goals] (https://github.com/AaraniSivasekaram/Kickstarter-Analysis/blob/main/Theatre%20Outcomes%20vs%20Launch.png). 
 
-### Challenges and difficulties encountered during this analysis include understanding the COUNTIFS function, as this was novel to me and took some time to understand. As well, I made some mistakes when inputting the correct data ranges in the COUNTIFS formula, but double-checking my work allowed me to resolve these mistakes.  
+- Challenges and difficulties encountered during this analysis include understanding the COUNTIFS function, as this was novel to me and took some time to understand. As well, I made some mistakes when inputting the correct data ranges in the COUNTIFS formula, but double-checking my work allowed me to resolve these mistakes.  
 
 ## Results
 
